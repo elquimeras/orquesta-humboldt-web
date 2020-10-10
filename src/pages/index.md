@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Orquesta ¡OH! Humboldt
 image: /img/orquesta.jpeg
-heading: Orquesta ¡OH! Humboldt
+heading: Orquesta ¡OH! Humboldt (Heading)
 subheading: Un proyecto sinfónico para la integración entre mundos
 mainpitch:
   title: Why Kaldi
