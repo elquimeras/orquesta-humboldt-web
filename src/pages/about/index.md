@@ -13,7 +13,7 @@ La OH es una agrupación conformada entre 15 a 60 instrumentistas, conforme al p
 
 ### <div style="width: 100%; text-align: center">El Director Musical</div>
 
-![Michael Form](/img/mrform.jpg "Michael Form")
+![Michael Form, Director](/img/mrform.jpg "Michael Form, Director")
 
 **<br>**
 
@@ -27,7 +27,7 @@ Desde entonces ha dirigido no menos de 160 funciones de ópera tanto en Europa c
 <tr>
   <td style="padding: 0 15px 0 0">
 
-![Jonathan Alvarez; Cofundador](/img/jonathan.jpg "Jonathan Alvarez")
+![Jonathan Alvarez, Cofundador](/img/jonathan.jpg "Jonathan Alvarez, Cofundador")
 
 <br>
 
@@ -39,7 +39,7 @@ Fue acreedor de la beca de la ACADEMIA DE MÚSICA ANTIGUA de Brunico (Italia) pa
   </td>
   <td style="padding: 0 0 0 15px">
 
-![](/img/manuel.jpg)
+![Manuel Hernandez, Cofundador](/img/manuel.jpg "Manuel Hernandez, Cofundador")
 
 <p><b>Manuel Isaías Hernández</b> nació en Araure, Venezuela en 1984. Comienza sus estudios musicales en El Sistema iniciándose en el violonchelo con Diomar Gómez y Valmore Nieves y, más tarde, con William Molina y Marek Gajzler en la ACADEMIA LATINOAMERICANA DE VIOLONCHELO donde ingresa en calidad de profesor en 2011. Formó parte de la Orquesta Sinfónica del Estado Lara y, en 2004, ingresa a la Orquesta Sinfónica Simón bolívar, bajo la batuta de Gustavo Dudamel y laureados  directores como Sir Simon Rattle y Claudio Abbado.</p>
 
